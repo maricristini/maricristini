@@ -59,8 +59,4 @@ Sou motivada por desafios, curiosidade e determinação — qualidades que levo 
 > “Tudo o que fizerem, façam de todo o coração, como para o Senhor" Colossenses 3:23
 
 ---
-### 🐍 Jogo
-<p align="center">
-  <img src="https://github.com/maricristini/maricristini/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
 
