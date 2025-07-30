@@ -13,7 +13,7 @@
 
 Iniciei meus estudos em programação aos 16 anos e, desde então, me aprofundei especialmente na área de Dados e Back-End, sem deixar de explorar outras linguagens e tecnologias que ampliam minha capacidade técnica.
 
-Sou movida por desafios, curiosidade e determinação — qualidades que levo para cada projeto. Se você procura alguém comprometida e com sede de evolução e  inovação, estou pronta para contribuir!
+Sou motivada por desafios, curiosidade e determinação — qualidades que levo para cada projeto. Se você procura alguém comprometida e com sede de evolução e  inovação, estou pronta para contribuir!
 
 👩‍💻 Atualmente curso **Ciência da Computação** e trabalho na **Itaú Asset Management**, na área de **Investment Services and Operations** especialmente com foco em mercado financeiro e automações em Python e SQL.
 
